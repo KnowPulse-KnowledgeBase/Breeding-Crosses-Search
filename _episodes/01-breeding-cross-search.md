@@ -3,7 +3,7 @@ title: "Use Germplasm to find parents "
 teaching: 8
 exercises: 8
 questions:
-- "How to use parental information to find a specific cross though breeding cross search?"
+- "How can I use parental information to find a specific cross though breeding cross search?"
 
 objectives:
 - "Providing a step by step demonstration on how to use breeding cross search on KnowPulse."
