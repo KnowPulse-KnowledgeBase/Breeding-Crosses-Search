@@ -1,5 +1,5 @@
 ---
-title: "Finding parents for a known germplasm "
+title: "How to find parents for a known germplasm "
 teaching: 8
 exercises: 8
 questions:
